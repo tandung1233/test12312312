@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /files/
+
+User-Agent: AdsBot-Google
+Disallow: /assets/
+Disallow: /files/
